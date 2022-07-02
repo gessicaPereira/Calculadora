@@ -11,7 +11,7 @@
     background-color: var(--blue);
   }
   
-  .calculatorContainer {
+  .calcContainer {
     display: flex;
     width: 350px;
     height: 520px;
